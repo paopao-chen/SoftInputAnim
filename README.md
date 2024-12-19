@@ -1,0 +1,2 @@
+# SoftInputAnim
+参考google官方项目封装 Android11及以上软键盘收起弹出平滑动画
